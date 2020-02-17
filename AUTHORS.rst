@@ -1,7 +1,7 @@
 Authors
 -------
 
-* Eric (New contributor)
-* Anthony 
+* Amr (New contributor)
+* Tahra Eissa (Boss lady) 
 
 
